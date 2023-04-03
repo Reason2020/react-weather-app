@@ -1,0 +1,7 @@
+.forecast-item {
+    display: flex;
+    border: 2px solid black;
+    border-radius: 5px;
+    gap: 2rem;
+    padding: 1rem;
+}
